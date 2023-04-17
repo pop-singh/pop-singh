@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 💬 Ask me about **Java ,JavaScript**
+- 💬 Ask me about **Java  JavaScript**
 
 - 📫 How to reach me **singhpop93@gmail.com**
 
