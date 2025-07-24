@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java  JavaScript**
 
-- 📫 How to reach me **<a href="singhpop93@gmai.com">Mail</a>**
+- 📫 How to reach me **<a href="singhpop93@gmail.com">Mail</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
