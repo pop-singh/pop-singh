@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pop-singh&label=Profile%20views&color=0e75b6&style=flat" alt="pop-singh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/singhpop93" target="blank"><img src="https://img.shields.io/twitter/follow/singhpop93?logo=twitter&style=for-the-badge" alt="singhpop93" /></a> </p>
+<p align="left"> <a href="https://twitter.com/singhpop93" target="blank"><img src="https://img.shields.io/twitter/follow/singhpop93?logo=twitter&style=for-the-badge" alt="singhpop93" />X</a> </p>
 
 - 🌱 I’m currently learning **React js**
 
 - 💬 Ask me about **Java  JavaScript**
 
-- 📫 How to reach me **singhpop93@gmail.com**
+- 📫 How to reach me **<a href="singhpop93@gmai.com">Mail</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
